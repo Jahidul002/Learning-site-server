@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Html",
+        "img": "https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5-thumbnail.png",
+        "rating": 4.5,
+        "price": "$50",
+        "title": "HTML helps to build structure of a website and is a widely used Markup language",
+        "about": "Hypertext markup language (HTML) is a Hypertext markup language, the standard markup language for documents designed to displayed and viewed on the online during a browser also helps to create the structure of the web page. because it is a markup language, it consists of many tags. There are tags to display text, tables, ordered lists and unordered lists, etc. There are two main sections on the HTML page: head and body section. The data that describes the page also termed as metadata is inside the head section while the body section includes all the tags that are necessary to represent the visible content of the web page HTML is a platform-independent language so that can be made in use in any platform like Windows, Linux, Macintosh, etc.There are various HTML versions. The newest version is HTML 5. it’s more advanced features like Geo-location, native audio, and video support, Canvas, web socket, etc. Usually, HTML is a simple language to find out and use. A programmer can create an HTML file employing a simple text editor and execute it employing a browser."
+    },
+    {
+        "id": 2,
+        "name": "Css",
+        "img": "https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png",
+        "rating": 4.7,
+        "price": "$75",
+        "title": "Better User Experience",
+        "about": "Cascading Style Sheets (CSS): CSS is defined as a method sheet language that provides web designers control over how an internet site communicates with web browsers including the formatting and display of their HTML documents. CSS or cascading sheet may be a text-based coding language that specifies the website formats and the way a site communicates with web browsers. The language allows web developers to regulate various style elements and functionalities, like layout, color, fonts, and therefore the formatting and display of HTML documents.The main goal (as a method sheet language) was to separate document content from document presentation, which incorporates style elements, like color, layout, and fonts. CSS handles the design and feel a part of an internet page. Using CSS, you will control the color of the text, the design of fonts, the spacing between paragraphs, how columns are sized and laid out, etc. CSS instructs the display of the HTML on how the web site will display at the user’s end. Let us have a glance on the benefits and drawbacks of CSS."
+    },
+    {
+        "id": 3,
+        "name": "Boostrap",
+        "img": "https://w7.pngwing.com/pngs/341/514/png-transparent-bootstrap-plain-logo-icon-thumbnail.png",
+        "rating": 5,
+        "price": "$60",
+        "title": "Lightweight and customizable.",
+        "about": "Web design in ecommerce is critical for SEO, attracting customers and delivering outstanding experiences to each website visitor. Many companies choose a flexible design framework that allows them to tweak aspects of design to keep their websites fresh and updated. Bootstrap flexibility is well known as it’s one of the more popular platforms and includes CSS, HTML and JS frameworks for web design. In-house staffs throughout ecommerce--and outside developers and consultants--are using the Bootstrap framework to build and maintain highly customizable web designs. This mobile responsive tool provides many benefits for agile design needs"
+    },
+    {
+        "id": 4,
+        "name": "Tailwind",
+        "img": "https://www.drupal.org/files/project-images/screenshot_361.png",
+        "rating": 4.5,
+        "price": "$65",
+        "title": "Tailwind CSS makes it quicker to write and maintain the code of your application",
+        "about": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don’t have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.There may be a learning curve to familiarize yourself with these utility classes, but once you do, you’ll be able to create and maintain applications faster than ever before."
+    },
+    {
+        "id": 5,
+        "name": "Javascript",
+        "img": "https://w7.pngwing.com/pngs/845/302/png-transparent-javascript-logo-html-comment-blog-others-miscellaneous-angle-text-thumbnail.png",
+        "rating": 5,
+        "price": "$250",
+        "title": "JavaScript is easy to understand and learn. The structure is simple for the users as well as the developers",
+        "about": "JavaScript is a programming language. Many of these are related to the way, JavaScript is often executed directly in a client’s browser commonly utilized in web development. It was originally developed by Netscape as a way to feature dynamic and interactive elements to websites. JavaScript is influenced by Java with the similar syntax of C. JavaScript conforms to the ECMAScript specifications which were developed by Sun Microsystems. JavaScript may be a client-side scripting language, which suggests the ASCII text file is processed by the client’s browser instead of on the online server. This can load the webpage without communicating with the main server by the help of JavaScript. For example, a JavaScript function may check an internet form before it’s submitted to make sure all the specified fields are filled out. The JavaScript code can produce an error message before any information is really transmitted to the server. Like server-side scripting languages, like PHP and ASP, JavaScript code are often inserted anywhere within the HTML of a webpage. The output of the server-side is displayed in the HTML but the JavaScript code remains visible in the source of the webpage. The file can be a separate “.js” file, which can be displayed in the browser. JavaScript has some advantages and disadvantages. JavaScript is often executed directly on a client’s browser. JavaScript can also have the same benefits as server-side languages."
+    },
+    {
+        "id": 6,
+        "name": "React",
+        "img": "https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png",
+        "rating": 4.9,
+        "price": "$200",
+        "title": "Makes JavaScript coding easier",
+        "about": "React.js is one of the most popular front-end JavaScript libraries for building Web applications. It is actively maintained by Meta and a community of skilled developers and companies. It is known to be fast, scalable, simple, and highly advantageous to be used to create large web applications where we can change data without reloading the page. In this article, we will talk about its various advantages, which make it so widely used among many start-ups and Fortune 500 companies.It is composable: Composition is a function of combining parts or elements to form a whole. In the old days of web development a website was usually a single html page. So, a lot of time those web pages ended up being very long with thousands of lines of HTML codes. With modern frameworks like React, we can divide these codes and put it in custom components. Then we can utilize these components and integrate them into one place. Hence the code becomes a lot more maintainable and flexible. JSX is used for templating in React. JSX is a simple JavaScript that permits HTML quotation elements and uses these HTML tag syntax to render subcomponents. Below is an example of how to use components in React:"
+    }
+]
